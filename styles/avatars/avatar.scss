@@ -1,0 +1,16 @@
+.avatar {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: middle;
+  border-radius: $ra-global-border-radius-rounded;
+  flex-shrink: 0;
+}
+
+@mixin avatar-size( $size ) {
+  width: $size;
+  height: $size;
+}
+
+.avatar-sm { @include avatar-size( $ra-global-type-size-100 ); }
+.avatar-md { @include avatar-size( $ra-global-type-size-300 ); }
+.avatar-lg { @include avatar-size( $ra-global-type-size-500 ); }
