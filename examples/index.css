@@ -1,0 +1,92 @@
+.border {
+  border: 1px solid #808080 !important;
+}
+
+.border-bold {
+  border: 3px solid #808080 !important;
+}
+
+.border-radius-sm {
+  border-radius: 4px !important;
+}
+
+.border-radius-md {
+  border-radius: 8px !important;
+}
+
+.border-radius-lg {
+  border-radius: 16px !important;
+}
+
+.circle {
+  border-radius: 1000px !important;
+}
+
+.m-1 {
+  margin: 2px;
+}
+
+.m-10 {
+  margin: 4px;
+}
+
+.mb-sm {
+  margin-bottom: 2px;
+}
+
+.mb-md {
+  margin-bottom: 12px;
+}
+
+.mb-lg {
+  margin-bottom: 24px;
+}
+
+.p-sm {
+  padding: 2px;
+}
+
+.p-md {
+  padding: 12px;
+}
+
+.p-lg {
+  padding: 16px !important;
+}
+
+.pb-sm {
+  padding-bottom: 2px;
+}
+
+.pb-md {
+  padding-bottom: 12px;
+}
+
+.pb-lg {
+  padding-bottom: 24px;
+}
+
+.avatar {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: middle;
+  border-radius: 1000px;
+  flex-shrink: 0;
+}
+
+.avatar-sm {
+  width: 16px;
+  height: 16px;
+}
+
+.avatar-md {
+  width: 24px;
+  height: 24px;
+}
+
+.avatar-lg {
+  width: 40px;
+  height: 40px;
+}
+
+/*# sourceMappingURL=index.css.map */

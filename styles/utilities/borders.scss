@@ -1,0 +1,23 @@
+.border {
+  border: $ra-global-border-width-regular solid $ra-global-color-neutral-500 !important;
+}
+
+.border-bold {
+  border: $ra-global-border-width-bold solid $ra-global-color-neutral-500 !important;
+}
+
+.border-radius-sm {
+  border-radius: $ra-global-border-radius-sm !important;
+}
+
+.border-radius-md {
+  border-radius: $ra-global-border-radius-md !important;
+}
+
+.border-radius-lg {
+  border-radius: $ra-global-border-radius-lg !important;
+}
+
+.circle { 
+  border-radius: $ra-global-border-radius-rounded !important;
+}
