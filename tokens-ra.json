@@ -982,7 +982,7 @@
           }
         },
         "Text": {
-          "Base": {
+          "Default": {
             "value": "{Global.Color.Neutral.100}",
             "type": "color"
           },
