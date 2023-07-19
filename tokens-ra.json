@@ -1174,7 +1174,7 @@
     "Title": {
       "Large": {
         "value": {
-          "fontFamily": "{Global.Type.Family.Sans}",
+          "fontFamily": "{Global.Type.Family.Display}",
           "fontWeight": "{Global.Type.Weight.Bold}",
           "lineHeight": "{Global.Type.Lineheight.Base}",
           "fontSize": "{Global.Type.Size.300}",
@@ -1184,7 +1184,7 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{Global.Type.Family.Sans}",
+          "fontFamily": "{Global.Type.Family.Display}",
           "fontWeight": "{Global.Type.Weight.Bold}",
           "lineHeight": "{Global.Type.Lineheight.Base}",
           "fontSize": "{Global.Type.Size.200}",
@@ -1194,7 +1194,7 @@
       },
       "Small": {
         "value": {
-          "fontFamily": "{Global.Type.Family.Sans}",
+          "fontFamily": "{Global.Type.Family.Display}",
           "fontWeight": "{Global.Type.Weight.Regular}",
           "lineHeight": "{Global.Type.Lineheight.Base}",
           "fontSize": "{Global.Type.Size.100}",
